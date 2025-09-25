@@ -1,42 +1,56 @@
-# SHARIQA
-💫 Hi 👋, I'm Vidhi Sharma
-A B.Tech 3rd-year student specializing in AI & ML from India
+# 👋 Hi, I'm Vidhi Sharma  
 
-Email Me 👉 ✉ [vidhiisharma.17@gmail.com
-] if you want to connect or work together! 😊
-
-🔭 I’m currently working on: Learning basic AI and machine learning projects
-🌱 I’m currently learning:: C++ and machine learning algorithms
-🤔 I’m looking for help with: Understanding AI concepts and improving my coding skills
-📫 How to reach me: [vidhisharma.17@gmail.com
-]
-😄 Pronouns: she/her
-⚡ Fun fact: I love exploring new tech and coding!
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shariqa Rasheed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vidhiisharma.17@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vidhisharma-17&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shariqa24&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhisarhma-17&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Vidhisharma-17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Vidhisharma-17&limit=5&theme=dark&combine_all_yearly_contributions=true)
-### ✍ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+💫 A passionate **B.Tech 3rd-year AI & ML student** from India  
+🔭 Currently exploring **AI/ML, Computer Vision, and Intelligent Systems**  
+🌱 Focused on improving my skills in **C++, Python, and Machine Learning**  
+💡 I love to **solve real-world problems** through technology and innovation  
+⚡ Fun fact: I enjoy building projects that blend **tech + creativity** ✨  
 
 ---
+
+## 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidhi-sharma-23559030a)  
+[![GitHub](https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white)](https://github.com/Vidhisharma-17)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vidhiisharma.17@gmail.com)  
+
+---
+
+## 💻 Tech Stack  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)  
+![Mediapipe](https://img.shields.io/badge/Mediapipe-FF6F00?style=for-the-badge&logo=google&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+
+---
+
+## 🚀 Featured Projects  
+🔹 **[Signify](#)** – AI-powered project designed to make an impact in real-world problem solving 🚀  
+🔹 **[Botify](#)** – Smart chatbot with AI integration for better human-computer interaction  
+🔹 **[Image Editor](#)** – Web-based tool with editing features for images  
+🔹 **[GVS Shopping Website](#)** – Frontend e-commerce website built with HTML & CSS  
+
+---
+
+## 📊 GitHub Stats  
+![](https://github-readme-stats.vercel.app/api?username=Vidhisharma-17&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Vidhisharma-17&theme=radical&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhisharma-17&theme=radical&hide_border=false&layout=compact)  
+
+---
+
+## 🏆 GitHub Trophies  
+![](https://github-profile-trophy.vercel.app/?username=Vidhisharma-17&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
+
+---
+
+### ✍ Quote for You  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=Vidhisharma-17&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
